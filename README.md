@@ -45,9 +45,3 @@
 <p align="left">✨ Creating bugs since May 2024<br>📚 I'm currently learning Python<br>🎯 Objectives: Gain experience in the programming language and also start a new career as a back-end developer<br>🎲 Fun fact: I'm a civil engineer, I'm 26 years old, I like to play RPGs with my friends on the weekends and I recently discovered my passion for programming.</p>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/VitorNeresBr/VitorNeresBr/output/snake.svg" alt="Snake animation" />
-
-###
