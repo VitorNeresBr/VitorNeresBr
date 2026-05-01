@@ -24,6 +24,13 @@ Based in Brazil, I am transitioning from a career in Civil Engineering to the wo
 
 ---
 
+### 📈 Activity & Streak
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorNeresBr&theme=tokyonight" alt="Vitor's Streak" height="150" />
+</p>
+
+---
+
 ### 🎯 2026 Goals
 - 🧠 Mastering **Exploratory Data Analysis (EDA)** and Statistical Modeling.
 - 📈 Developing advanced dashboards with focus on **Data Storytelling**.
