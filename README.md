@@ -34,7 +34,7 @@ Based in Brazil, I am transitioning from a career in Civil Engineering to the wo
 ### 📫 Connect with me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/vitorvneres/?locale=en-US) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:vitorvnss@gmail.com)
-[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />]([https://instagram.com/VitorNeresBr](https://www.instagram.com/vitorneresvieira?igsh=MTZuZmZjeXFxdmpmcA==))
+[<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />](https://www.instagram.com/vitorneresvieira?igsh=MTZuZmZjeXFxdmpmcA==)
 
 ---
 
