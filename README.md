@@ -22,8 +22,10 @@ Based in Brazil, I am transitioning from a career in Civil Engineering to the wo
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorNeresBr&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
 </p>
 
-### 🗓️ Contribution Graph
-![Vitor's Contribution Graph](https://github-chart._erik.workers.dev/?user=VitorNeresBr&theme=tokyonight)
+### 📈 Activity & Streak
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VitorNeresBr&theme=tokyonight" alt="Vitor's Streak" height="150" />
+</p>
 
 ---
 
